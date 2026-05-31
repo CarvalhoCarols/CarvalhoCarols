@@ -3,6 +3,7 @@
 # ✨ Olá, eu sou a Cah! ✨
 
 ### 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+### 🎓 Estudante de Engenharia de Software
 ### 🎨 Tatuadora | 💻 Desenvolvedora em formação
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Bem-vindo(a)+ao+meu+GitHub!;Aprendendo+e+criando+todos+os+dias.;HTML+%7C+CSS+%7C+JavaScript+%7C+Python" />
@@ -54,11 +55,11 @@ Projeto de lógica de programação utilizando algoritmos.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/in/ana-caroline-carvalho-049509181/?skipRedirect=true">
+<a href="https://www.linkedin.com/in/ana-caroline-carvalho-049509181">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://instagram.com/016caroline">
+<a href="https://instagram.com/016carolinee">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
