@@ -69,7 +69,7 @@ Projeto de lógica de programação utilizando algoritmos.
 
 <div align="center">
 
-<img width="1254" height="1254" alt="animated_image" src="https://github.com/user-attachments/assets/59496b0e-ada3-4806-8e20-e20f74ffad5e" />
+<img width="200" height="300" alt="animated_image" src="https://github.com/user-attachments/assets/59496b0e-ada3-4806-8e20-e20f74ffad5e" />
 
 ### ✨ "Transformando ideias em código, um commit por vez." ✨
 
